@@ -1,11 +1,11 @@
 # Credit_score_classification
 This is a credit score classification project performed on the dataset from the following link: https://statso.io/credit-score-classification-case-study/
 
-The dataset looks as follows:\n
-ID: Unique ID of the record\n
-Customer_ID: Unique ID of the customer\n
-Month: Month of the year\n
-Name: The name of the person\n
+The dataset looks as follows:
+ID: Unique ID of the record
+Customer_ID: Unique ID of the customer
+Month: Month of the year
+Name: The name of the person
 Age: The age of the person
 SSN: Social Security Number of the person
 Occupation: The occupation of the person
